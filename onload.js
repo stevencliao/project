@@ -32,7 +32,7 @@ jQuery.noConflict();
 					display: 'block'
 				});
 			}
-			
+			aler('fff');
 		}
 		
 	});
